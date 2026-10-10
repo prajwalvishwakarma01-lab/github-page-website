@@ -29,7 +29,7 @@ https://prajwalvishwakarma01-lab.github.io/github-page-website/
 
 Repository Link:
 
-https://github.com/prajwalvishwakarma01-lab/github-page-websites
+https://github.com/prajwalvishwakarma01-lab/github-page-website
 
 ## ✨ Features
 
