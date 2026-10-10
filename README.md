@@ -23,7 +23,7 @@ This project demonstrates how to:
 
 Visit the deployed website:
 
-https://prajwalvishwakarma01-lab.github.io/github-page-websites/
+https://prajwalvishwakarma01-lab.github.io/github-page-website/
 
 ## 📂 GitHub Repository
 
