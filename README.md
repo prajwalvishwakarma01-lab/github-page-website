@@ -23,13 +23,13 @@ This project demonstrates how to:
 
 Visit the deployed website:
 
-https://YOUR_USERNAME.github.io/github-pages-websites/
+https://prajwalvishwakarma01-lab.github.io/github-page-websites/
 
 ## 📂 GitHub Repository
 
 Repository Link:
 
-https://github.com/YOUR_USERNAME/github-pages-websites
+https://github.com/prajwalvishwakarma01-lab/github-page-websites
 
 ## ✨ Features
 
